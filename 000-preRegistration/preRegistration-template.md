@@ -7,14 +7,14 @@
   described in this document;
 
 
-1. Research questions / statements
+1 Research questions / statements
 ----------------------------------
 
 - Describe the general aims of the study as well as potential specific
   research questions / statements.
   
   
-2. Variables
+2 Variables
 ------------
 
 - Describe the variables that will be recorded during the data
@@ -32,14 +32,14 @@
 --------------------------------------
 
 
-3. Methods and data collection principles
+3 Methods and data collection principles
 -----------------------------------------
 
 - Describe the specific methods for data collection;
 - Describe data manipulation planification;
 - Describe instructions that will be given to the participants;
 
-4. Hypotheses
+4 Hypotheses
 -------------
 
 - When several hypotheses will be investigated, they should be
@@ -55,7 +55,7 @@
 --------------------------
 
 
-5. Sampling procedure
+5 Sampling procedure
 ---------------------
 
 - Describe criteria for participants selection;
@@ -71,7 +71,7 @@
   require the whole experiment to be stopped, re-run and / or
   re-designed;
 
-6. Results analyses
+6 Results analyses
 -------------------
 
 - Describe planned data analyses (correlations between variables,
@@ -82,7 +82,7 @@
   in case these assumptions were not met;
 
 
-7. Data collection anticipation level
+7 Data collection anticipation level
 -------------------------------------
 
 Date at which this pre-registering document has been finalized
