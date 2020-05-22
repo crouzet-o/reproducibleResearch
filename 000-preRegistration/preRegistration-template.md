@@ -2,9 +2,10 @@
 
 - All information in this document has to be frozen _before_ data
   analysis and _even better_, ideally, _before_ data collection;
-- Any changes during the data collection and analysis process _must_
-  be stated in a separate document with reference to planned processes
-  described in this document;
+- Any changes during the data collection and analysis process that
+  would take place _after_ the pre-registration date _must_ be stated
+  in a separate document with reference to planned processes described
+  in this document;
 
 
 1 Research questions / statements
