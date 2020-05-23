@@ -27,9 +27,11 @@
   collection phase;
 - Provide informations concerning variable transformation when needed;
 - Describe levels when applicable as well as variable scales;
-- Dissociate dependent vs. independent variables if applicable;
+- Dissociate dependent / response vs. independent / predictor /
+  explanatory variables if applicable;
 - Identify control / secondary independent variables;
-- Describe relations between IVs;
+- Describe relations between predictor variables (within- / between- |
+  subjects / items, fixed vs. random effects);
 
 ```
 
