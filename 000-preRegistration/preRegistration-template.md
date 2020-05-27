@@ -11,8 +11,8 @@
 1 Research questions / statements
 ---
 
-- Describe the general aims of the study as well as potential specific
-  research questions / statements.
+- Describe the general aims of the study along with specific research
+  questions / statements.
 
 ```
 
